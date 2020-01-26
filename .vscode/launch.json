@@ -9,6 +9,20 @@
             "name": "CodeLens (Launch) - Wrapper",
             "request": "launch",
             "mainClass": "Wrapper",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - echo",
+            "request": "launch",
+            "mainClass": "echo",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wrapper",
+            "request": "launch",
+            "mainClass": "Wrapper",
             "projectName": "java_d1ebb3c2"
         },
         {
